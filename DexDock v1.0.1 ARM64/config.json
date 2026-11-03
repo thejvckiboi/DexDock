@@ -1,0 +1,8 @@
+{
+    "resolution": "1920x1200",
+    "dpi": "160",
+    "fps": "60",
+    "codec": "h265",
+    "bitrate": "16M",
+    "fullscreen": true
+}
